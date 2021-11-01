@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">FApplication</string>
     <string name="Name">Проверка знаний работников ЦППН АО ВЧНГ</string>
     <string name="profession">Выберите профессию</string>
     <string name="version">Версия 1.0</string>
